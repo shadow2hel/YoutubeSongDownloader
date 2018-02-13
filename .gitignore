@@ -13,3 +13,7 @@ pkg/
 src/
 *.swp
 *.swo
+.idea/
+venv/
+downloads/
+mp3s/
